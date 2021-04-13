@@ -5,9 +5,11 @@ prPred-DRLF is an open-source Python-based toolkit, which operates depending on 
 
 ### **If your computer have GPU,it will be faster. **
 
+
 ### **Download**
 
 > git clone git@github.com:Wangys-prog/prPred-DRLF.git
+
 
 ### **Install dependencies**
 
