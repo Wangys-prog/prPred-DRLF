@@ -19,12 +19,11 @@ prPred-DRLF is an open-source Python-based toolkit, which operates depending on 
 ### Input parameters
 
 > python3 prpred-DRLF.py -h  
-$ usage: Script for predicting plant R protein using deep representation learning features  
-$       [-h] [-i I] [-o O]  
-
-$ optional arguments:  
-$  -h, --help  show this help message and exit  
-$  -i I        input sequences in Fasta format  
-$  -o O        path to saved CSV file  
+> $ usage: Script for predicting plant R protein using deep representation learning features  
+> $       [-h] [-i I] [-o O]  
+> $ optional arguments:  
+> $  -h, --help  show this help message and exit  
+> $  -i I        input sequences in Fasta format  
+> $  -o O        path to saved CSV file  
 
 > python3 prpred-DRLF.py -i ./dataset/test_data.fasta -o ./dataset/predict_result
