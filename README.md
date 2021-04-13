@@ -3,8 +3,7 @@ prPred-DRLF is a tool to identify the plant resistance proteins (R proteins) bas
 
 prPred-DRLF is an open-source Python-based toolkit, which operates depending on the Python environment (Python Version 3.0 or above). 
 
-**###If your computer have GPU,it will be faster. 
-
+### **If your computer have GPU,it will be faster. **
 
 ### **Download**
 
