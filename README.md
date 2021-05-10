@@ -18,7 +18,7 @@ prPred-DRLF is an open-source Python-based toolkit, which operates depending on 
 
 ### Input parameters
 
-> python3 prpred-DRLF.py -h  
+> python3 prPred-DRLF.py -h  
 > $ usage: Script for predicting plant R protein using deep representation learning features  
 > $       [-h] [-i I] [-o O]  
 > $ optional arguments:  
