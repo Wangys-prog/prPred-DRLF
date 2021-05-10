@@ -26,4 +26,4 @@ prPred-DRLF is an open-source Python-based toolkit, which operates depending on 
 > $  -i I        input sequences in Fasta format  
 > $  -o O        path to saved CSV file  
 
-> python3 prpred-DRLF.py -i ./dataset/test_data.fasta -o ./dataset/predict_result
+> python3 prPred-DRLF.py -i ./dataset/test_data.fasta -o ./dataset/predict_result
