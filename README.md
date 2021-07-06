@@ -17,18 +17,18 @@ prPred-DRLF is an open-source Python-based toolkit, which operates depending on 
 
 or 
 
-> pip3 install joblib==1.0.1 
-> pip3 install tape_proteins==0.4 
-> pip3 install numpy==1.19.2 
-> pip3 install pandas==1.2.0 
-> pip3 install Bio==0.4.1 
-> ###for python3.7 
-> #if you have GPU  # CUDA 9.2  
-> pip install torch==1.2.0 torchvision==0.4.0 
-> #If you have GPU CUDA 10.0 
-> pip install torch==1.2.0+cu92 torchvision==0.4.0+cu92 -f https://download.pytorch.org/whl/torch_stable.html
-> # CPU Only
-> pip install torch==1.2.0+cpu torchvision==0.4.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+>pip3 install joblib==1.0.1 
+>pip3 install tape_proteins==0.4 
+>pip3 install numpy==1.19.2 
+>pip3 install pandas==1.2.0 
+>pip3 install Bio==0.4.1 
+>###for python3.7 
+>#if you have GPU  # CUDA 9.2  
+>pip install torch==1.2.0 torchvision==0.4.0 
+>#If you have GPU CUDA 10.0 
+>pip install torch==1.2.0+cu92 torchvision==0.4.0+cu92 -f https://download.pytorch.org/whl/torch_stable.html
+># CPU Only
+>pip install torch==1.2.0+cpu torchvision==0.4.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
 
 
 
