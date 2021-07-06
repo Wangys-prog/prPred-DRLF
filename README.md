@@ -37,7 +37,7 @@ or
 > 
 > pip install torch==1.2.0+cu92 torchvision==0.4.0+cu92 -f https://download.pytorch.org/whl/torch_stable.html
 > 
-> # CPU Only 
+> # CPU Only python3.7
 > 
 > pip install torch==1.2.0+cpu torchvision==0.4.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
 > 
