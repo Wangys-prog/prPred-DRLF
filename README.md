@@ -43,7 +43,6 @@ or
 > 
 
 
-
 ### Input parameters
 
 > python3 prPred-DRLF.py -h  
@@ -55,3 +54,15 @@ or
 > $  -o O        path to saved CSV file  
 
 > python3 prPred-DRLF.py -i ./dataset/test_data.fasta -o ./dataset/predict_result
+
+
+### webserver
+
+>http://lab.malab.cn/soft/prPred-DRLF
+
+### Other tools
+
+>http://lab.malab.cn/~wys/
+
+### Please cite
+## Yansu Wang, Lei Xu, Quan Zou, Chen Lin. prPred-DRLF: plant R protein predictor using deep representation learning features. Proteomics. 2021. DOI: 10.1002/pmic.202100161
