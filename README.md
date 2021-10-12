@@ -27,9 +27,9 @@ or
 > 
 > pip3 install Bio==0.4.1 
 > 
-> # for python3.7 
+> ## for python3.7 
 > 
-> #if you have GPU  # CUDA 9.2  
+> ##if you have GPU  # CUDA 9.2  
 > 
 > pip install torch==1.2.0 torchvision==0.4.0 
 > 
@@ -37,7 +37,7 @@ or
 > 
 > pip install torch==1.2.0+cu92 torchvision==0.4.0+cu92 -f https://download.pytorch.org/whl/torch_stable.html
 > 
-> # CPU Only python3.7
+> ## CPU Only python3.7
 > 
 > pip install torch==1.2.0+cpu torchvision==0.4.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
 > 
@@ -56,7 +56,7 @@ or
 > python3 prPred-DRLF.py -i ./dataset/test_data.fasta -o ./dataset/predict_result
 
 
-### webserver
+### Webserver
 
 >http://lab.malab.cn/soft/prPred-DRLF
 
