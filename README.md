@@ -22,12 +22,12 @@ prPred-DRLF is an open-source Python-based toolkit, which operates depending on 
     pip3 install numpy==1.19.2 
     pip3 install pandas==1.2.0 
     pip3 install Bio==0.4.1 
-## for python3.7 
-## if you have GPU  # CUDA 9.2   
+#### for python3.7 
+#### if you have GPU  # CUDA 9.2   
     pip install torch==1.2.0 torchvision==0.4.0 
-# If you have GPU CUDA 10.0  
+#### If you have GPU CUDA 10.0  
     pip install torch==1.2.0+cu92 torchvision==0.4.0+cu92 -f https://download.pytorch.org/whl/torch_stable.html
-## CPU Only python3.7
+#### CPU Only python3.7
     pip install torch==1.2.0+cpu torchvision==0.4.0+cpu -f https://download.pytorch.org/whl/torch_stable.html 
 
 ### Input parameters
@@ -52,6 +52,6 @@ prPred-DRLF is an open-source Python-based toolkit, which operates depending on 
     http://lab.malab.cn/~wys/
 
 ### Please cite
-#### Yansu Wang, Lei Xu, Quan Zou, Chen Lin. prPred-DRLF: plant R protein predictor using deep representation learning features. Proteomics. 2021. DOI: 10.1002/pmic.202100161
-#### Yansu Wang, Murong Zhou, Quan Zou, Lei Xu. Machine learning for phytopathology: from the molecular scale towards the network scale. Briefings in Bioinformatics. 2021, Doi: 10.1093/bib/bbab037
-### Wang Y, Wang P, Guo Y, et al. prPred: A Predictor to Identify Plant Resistance Proteins by Incorporating k-Spaced Amino Acid (Group) Pairs[J]. Frontiers in bioengineering and biotechnology, 2021, 8: 1593.
+    (1) Yansu Wang, Lei Xu, Quan Zou, Chen Lin. prPred-DRLF: plant R protein predictor using deep representation learning features. Proteomics. 2021. DOI: 10.1002/pmic.202100161
+    (2) Yansu Wang, Murong Zhou, Quan Zou, Lei Xu. Machine learning for phytopathology: from the molecular scale towards the network scale. Briefings in Bioinformatics. 2021,           Doi:10.1093/bib/bbab037
+    (3) Wang Y, Wang P, Guo Y, et al. prPred: A Predictor to Identify Plant Resistance Proteins by Incorporating k-Spaced Amino Acid (Group) Pairs[J]. Frontiers in          bioengineering and biotechnology, 2021, 8: 1593.
