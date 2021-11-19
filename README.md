@@ -53,5 +53,5 @@ prPred-DRLF is an open-source Python-based toolkit, which operates depending on 
 
 ### Please cite
     (1) Yansu Wang, Lei Xu, Quan Zou, Chen Lin. prPred-DRLF: plant R protein predictor using deep representation learning features. Proteomics. 2021. DOI: 10.1002/pmic.202100161
-    (2) Yansu Wang, Murong Zhou, Quan Zou, Lei Xu. Machine learning for phytopathology: from the molecular scale towards the network scale. Briefings in Bioinformatics. 2021,           Doi:10.1093/bib/bbab037
-    (3) Wang Y, Wang P, Guo Y, et al. prPred: A Predictor to Identify Plant Resistance Proteins by Incorporating k-Spaced Amino Acid (Group) Pairs[J]. Frontiers in          bioengineering and biotechnology, 2021, 8: 1593.
+    (2) Yansu Wang, Murong Zhou, Quan Zou, Lei Xu. Machine learning for phytopathology: from the molecular scale towards the network scale. Briefings in Bioinformatics. 2021, Doi:10.1093/bib/bbab037
+    (3) Wang Y, Wang P, Guo Y, et al. prPred: A Predictor to Identify Plant Resistance Proteins by Incorporating k-Spaced Amino Acid (Group) Pairs. Frontiers in bioengineering and biotechnology, 2021, 8: 1593.
