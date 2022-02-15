@@ -9,16 +9,14 @@ prPred-DRLF is an open-source Python-based toolkit, which operates depending on 
 ### **Download**
 
     git clone git@github.com:Wangys-prog/prPred-DRLF.git
-
+    
 
 ### **Install dependencies**
 
     pip3 install -r requirements.txt 
-
     or 
-
     pip3 install joblib==1.0.1  
-    pip3 install tape_proteins==0.4 
+    pip3 install tape_proteins==0.5
     pip3 install numpy==1.19.2 
     pip3 install pandas==1.2.0 
     pip3 install Bio==0.4.1 
